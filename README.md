@@ -1,6 +1,6 @@
 # What is this?
 
-This is a nothing server for reviewing http requests.
+This is a nothing server for reviewing http request headers.
 
 The server listens on `localhost:4000/tester`.
 
